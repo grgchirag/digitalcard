@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.br_50{
+    border-radius: 50%;
+}
+.fs_20{
+    font-size: 3vw;
+}
+.br-10{
+    border-radius: 10px;
+}
+.h-40{
+    height: 40px;
+}
+.w-40{
+    width: 40px;
+}
+.bg-red{
+    background-color: red;
+}
+.fs-25{
+    font-size: 4vw;
+}
+.border-red{
+    border: 2px solid red;
+}
+.text-red{
+    color: red;
+}
+.fs-5vw{
+    font-size: 3vw;
+}
+.w-50vw{
+    width: 6vw;
+    height: 6vw;
+}
